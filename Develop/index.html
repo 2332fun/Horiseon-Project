@@ -4,15 +4,18 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!--- changed title to better display what the website is about -->
     <title>Horiseon</title>
 </head>
 
 <body>
-    <!--- added sections to break up coding to be easier to read -->
+    <!--- added section thematic labels -->
     <section>
     <div class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <!--- removed span class "seo" to make Horiseon one solid color -->
+        <h1>Horiseon</h1>
+        <!--- added semantic label "nav" -->
+        <div id="nav">
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -53,7 +56,8 @@
             </p>
         </div>
     </div>
-    <div class="benefits">
+    <!--- added semantic label "aside" -->
+    <div id="aside" class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" />
