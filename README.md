@@ -29,7 +29,10 @@ No installation required. Follow the link listed under Usage below or in the Des
 
 ## Credits
 
-Xander Rapstine: Provider of original code of the project.
+* Xander Rapstine: Provider of original code of the project.
+* [Shields.io Link](https://shields.io/): Used to create My Shield found in Badges below.
+* [License Link](https://choosealicense.com/licenses/gpl-3.0/): Used to determine and copy the correct license for the project found in License below and the COPYING.txt file.
+* [Contributor Covenant Link](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md): Used to obtain a proper code of conduct for contribution found in Contributing below.
 
 ## License
 
@@ -37,17 +40,15 @@ GNU General Public License v3.0
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+* [My Shield](https://img.shields.io/badge/2332fun-2332fun%20contributed%20to%20this%20project.-blueviolet)
 
 ## Features
 
-If your project has a lot of features, consider adding a heading called "Features" and list them there.
+The website has anchors (found in the top right) that allow the page viewer to jump down to the section of the page they want to read.
 
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+If you are interested in contributing to this project, please read the contributor covenant found at [Contributor Covenant Link](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md). Then email me at [My Email](mirachan2332@gmail.com) to further collaborate.
 
 ## Tests
 
