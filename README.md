@@ -4,7 +4,7 @@
 
 What: My motivation for this project was to help Horiseon better display their website, enhance it's accessibility, and create a more stream-lined code for future developers to utilize. My efforts have solved redundant coding, missing functions, and lacking semantic labeling. I learned how to merge selectors to reduce repetitive coding in the CSS file. My project should stand out as efficient and easy to follow. I did this by organizing the files and commenting the sections, along with the changes I made.
 
-Link deployed project here:
+* [Link to Webpage](https://2332fun.github.io/Horiseon-Project/)
 
 ## Table of Contents
 
@@ -19,16 +19,13 @@ Link deployed project here:
 
 ## Installation
 
-No installation required. Follow the link hosted under GitHub.
+No installation required. Follow the link listed under Usage below or in the Description above.
 
 ## Usage
 
-
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+* [Link to Webpage](https://2332fun.github.io/Horiseon-Project/)
 
 * [Screenshot](assets/images/screenshot.png)
-
 
 ## Credits
 
@@ -36,8 +33,7 @@ Xander Rapstine: Provider of original code of the project.
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-MIT (vs code is licensed under)
+GNU General Public License v3.0
 
 ## Badges
 
