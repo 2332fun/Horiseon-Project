@@ -2,9 +2,7 @@
 
 ## Description
 
-What: What was your motivation? What problem does it solve? What did you learn? What makes your project stand out?
-Why: Why did you build this project?
-How:
+What: My motivation for this project was to help Horiseon better display their website, enhance it's accessibility, and create a more stream-lined code for future developers to utilize. My efforts have solved redundant coding, missing functions, and lacking semantic labeling. I learned how to merge selectors to reduce repetitive coding in the CSS file. My project should stand out as efficient and easy to follow. I did this by organizing the files and commenting the sections, along with the changes I made.
 
 Link deployed project here:
 
@@ -21,26 +19,25 @@ Link deployed project here:
 
 ## Installation
 
-Step-by-step installation instructions.
+No installation required. Follow the link hosted under GitHub.
 
 ## Usage
 
-Instructions and examples of use. Include screenshots as needed.
+
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+* [Screenshot](assets/images/screenshot.png)
+
 
 ## Credits
 
-List collaborators, if any.
+Xander Rapstine: Provider of original code of the project.
 
 ## License
 
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
+MIT (vs code is licensed under)
 
 ## Badges
 
@@ -58,4 +55,4 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+No test provided for this specific project.
